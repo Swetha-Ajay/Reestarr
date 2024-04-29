@@ -1,0 +1,34 @@
+.section-one{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border: 30px;
+padding: 20px;
+width: 900px;
+}
+
+.section-two{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border: 30px;
+padding: 20px;
+width: 900px;
+}
+
+.section-three{
+    background-color:white;
+    color: white;
+    border: 30px;
+padding: 20px;
+width: 900px;
+.image-container {
+    border: 2px solid black;
+    text-align: center; /* Center-align the text */
+    margin-bottom: 10px;
+}
+
+
+
+
+}
